@@ -15,19 +15,19 @@
     <div class="pt-3 fw-bold">freeCodeCamp.org</div>
     <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, tempore. Aliquam sed cupiditate vitae. Debitis amet maiores nobis atque laboriosam culpa facere modi dolore quasi, possimus voluptates quia, excepturi fugiat!</div>
     <div><a href="http://freecodecamp.org">www.freecodecamp.org</a></div>
-    
-      <div class ="row pt-5 d-flex ">
-      <div class="col-4">
-         <img src="https://inspirationfeed.com/wp-content/uploads/2020/05/Reaction-Meme-53.jpg" class ="w-100">
-      </div>
-      <div class="col-4">
-         <img src="https://inspirationfeed.com/wp-content/uploads/2020/05/Reaction-Meme-53.jpg" class ="w-100">
-      </div>
-      <div class="col-4">
-         <img src="https://inspirationfeed.com/wp-content/uploads/2020/05/Reaction-Meme-53.jpg" class ="w-100">
-      </div>
    </div>
-   </div>
-   
-</div>
+</div>  
+<div class ="row pt-5 d-flex justify-content-center">
+      <div class="col-2">
+         <img src="https://inspirationfeed.com/wp-content/uploads/2020/05/Reaction-Meme-53.jpg" class ="w-100">
+      </div>
+      <div class="col-2">
+         <img src="https://inspirationfeed.com/wp-content/uploads/2020/05/Reaction-Meme-53.jpg" class ="w-100">
+      </div>
+      <div class="col-2">
+         <img src="https://inspirationfeed.com/wp-content/uploads/2020/05/Reaction-Meme-53.jpg" class ="w-100">
+      </div>
+ </div>
+
+     
 @endsection
